@@ -1,0 +1,4 @@
+#Thu Oct 28 09:11:56 MDT 2021
+base.0=/Users/densmoreb/Documents/myprojects/fitness_app/app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
