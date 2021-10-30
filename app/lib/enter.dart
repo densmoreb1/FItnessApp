@@ -10,10 +10,13 @@ class Enter extends StatefulWidget {
 class _EnterState extends State<Enter> {
   @override
   Widget build(BuildContext context) {
-    return Card(
-        child: Column(
-      // mainAxisAlignment: MainAxisAlignment.end,
-      children: [Text('hello')],
-    ));
+    return SizedBox(
+      height: 5,
+      child: Card(
+          child: Column(
+        // mainAxisAlignment: MainAxisAlignment.end,
+        children: [Text('hello')],
+      )),
+    );
   }
 }

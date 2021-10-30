@@ -14,7 +14,7 @@ class FutureWorkoutCard extends StatelessWidget {
     return GestureDetector(
       onTap: () {
         showDialog(
-            context: context, builder: (BuildContext context) => Enter());
+            context: context, builder: (BuildContext context) => const Enter());
       },
       child: Card(
         elevation: 5,
