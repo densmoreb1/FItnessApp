@@ -15,7 +15,9 @@ This app was designed by me. Turns out, I am not good at design. I understand th
 ### Enter workout 3
 ![Screen 1](/images/enter.png)
 
-
+# Future Work
+* Add an api holding data
+* Find a design and implement it
 
 ## Development Enviroment
 * Flutter / Dart
